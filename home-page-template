@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>WebPage Design</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="container">
+  <div class="jumbotron">
+    <h1>About</h1>
+    <p>Assignment given to me by Aless</p> 
+  </div>
+  <div class="row">
+    <div class="col-sm-4">
+      <h3>Forums</h3>
+      <p>Aless's Forum</p>
+      <p>Public Forums</p>
+    </div>
+    <div class="col-sm-4">
+      <h3>Log-In</h3>
+      <p>Sign In</p>
+      <p>Sign Up</p>
+    </div>
+    <div class="col-sm-4">
+      <h3>Help</h3>        
+      <p>FAQS</p>
+      <p>Guides</p>
+    </div>
+    <div class="col-sm-4">
+      <h3>Contact Us</h3>        
+      <p>Report</p>
+      <p>Submit Ticket</p>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
